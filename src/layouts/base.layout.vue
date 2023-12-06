@@ -85,6 +85,11 @@ const tools = computed<ToolCategory[]>(() => [
               Corentin Thomasset
             </c-link>
           </div>
+          <div>
+            <c-link target="_blank" rel="noopener" href="http://beian.miit.gov.cn/">
+              辽ICP备2023013946号
+            </c-link>
+          </div>
         </div>
       </div>
     </template>
